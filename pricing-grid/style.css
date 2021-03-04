@@ -56,4 +56,28 @@ a {
 .pricing-grid {
   max-width:750px;
   margin: 0 auto;
+  display: flex;
+}
+
+.plan {
+  background: rgba(255,255,255,0.2);
+  margin: 1em;
+  padding: 1em;
+  text-align: center;
+  width: 28%;
+  border-radius: .2em;
+  display: flex;
+  flex-direction: column;
+}
+
+.plan > * {
+  flex: 1;
+}
+
+.plan1 {
+  align-self: center;
+}
+
+.plan3 {
+  align-self: center;
 }
