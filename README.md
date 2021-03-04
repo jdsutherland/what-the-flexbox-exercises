@@ -6,7 +6,7 @@ Practice exercises from [flexbox.io](https://flexbox.io/)
 ### [Mobile Reordering](https://github.com/jdsutherland/what-the-flexbox-exercises/commit/05afe4f2e791268c74a2852cdaec7e37fed70b9c)
 Start:
 
-![start](https://i.imgur.com/0qmxkhH.png)
+![start](https://i.imgur.com/MhDF0Pb.png)
 
 End:
 
@@ -28,7 +28,7 @@ End:
 ### [Pricing Grid](https://github.com/jdsutherland/what-the-flexbox-exercises/commit/38b8af46fecad9410078cbc84a35e89876d045ee)
 Start:
 
-![start](https://i.imgur.com/7Gp6Vi0.png)
+![start](https://i.imgur.com/rXsEbqy.png)
 
 
 End:
