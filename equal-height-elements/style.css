@@ -30,4 +30,11 @@ a {
   margin:10px;
   padding:20px;
   font-size: 30px;
+  flex: 0 1 calc(33.33% - 20px);
+}
+
+.elements {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }

@@ -39,4 +39,8 @@ End:
 ### [Equal Height Elements](equal-height-elements/)
 Start:
 
-![start](https://i.imgur.com/REsJItc.png)
+![start](https://i.imgur.com/GtBifJB.png)
+
+End:
+
+![end](https://i.imgur.com/fSvC7YO.png)
