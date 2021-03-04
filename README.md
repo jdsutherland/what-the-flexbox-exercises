@@ -1,14 +1,24 @@
 # What the Flexbox Exercises
 Practice exercises from [flexbox.io](https://flexbox.io/)
 
-### Mobile Reordering
-Start:
-![start](https://i.imgur.com/0qmxkhH.png)
-End:
-![end](https://i.imgur.com/JqSLLEx.mp4)
+---
 
-### Slider
+### [Mobile Reordering](mobile-reordering/)
 Start:
-![start](https://i.imgur.com/ks2leap.png)
+
+![start](https://i.imgur.com/0qmxkhH.png)
+
 End:
+
+![mobile-reorder_end](https://user-images.githubusercontent.com/5385846/109895177-051bd180-7c4c-11eb-88c5-aac9f5ba076f.gif)
+
+---
+
+### [Slider](slider/)
+Start:
+
+![start](https://i.imgur.com/ks2leap.png)
+
+End:
+
 ![end](https://i.imgur.com/Ol9nYgh.png)
