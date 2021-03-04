@@ -38,4 +38,25 @@ a:hover {
   list-style: none;
   margin: 0;
   padding: 0;
+  display: flex;
+}
+
+.slider-nav li {
+  flex: 2;
+  text-align: center;
+}
+
+.slider-nav .arrow {
+  flex: 1;
+}
+
+.slider-nav .arrow a {
+  font-size: 2.5em;
+}
+
+.slider-nav a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
 }
